@@ -1,0 +1,32 @@
+.description{
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+
+}
+.imagecontainer{
+    height: 10000px;
+    width:5000px;
+    margin: 0%;
+    padding:0%;
+    border-image: fill;
+
+    
+
+
+}
+.description2{
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.description3{
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.background{
+    background-image:url("images/download\ \(8\).jpg");
+    border-image: fill;
+    
+}
