@@ -1,0 +1,60 @@
+h1{
+    text-align: center;
+   
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+body{
+    background-image:url(images/gris.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    background-size: cover;
+    padding:0;
+    
+
+    
+    
+    
+}
+.navbar a{
+    color:white;
+    text-decoration:none;
+    padding:20px;
+    display: block;
+    text-align: center;
+}
+.navbar ul{
+    background-color: rgba(128, 128, 128, 0.685);
+    text-decoration:none;
+    padding:20px;
+    display: block;
+    text-align: center;
+    overflow: hidden;
+   list-style-type: none;
+}
+.navbar li{
+    float:left;
+}
+.navbar a:hover{
+    background-color: black;
+}
+.main{
+    margin:10px;
+    font-style: italic;
+}
+p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+table, th, td {
+    border: 3px solid black;
+    width: 100px;;
+    background-color: bisque;
+    
+
+    
+  }
+  caption{
+    font-size: larger;
+    font-style: italic;
+  }
